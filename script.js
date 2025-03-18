@@ -15,6 +15,7 @@ let currentIndex = 0;
 // Seleccionar elementos
 const carouselItems = document.getElementById("carouselItems");
 const prevBtn = document.getElementById("prevBtn");
+
 const nextBtn = document.getElementById("nextBtn");
 
 // Función para cargar las tarjetas
@@ -34,3 +35,10 @@ function loadCards() {
 
 // Cargar las tarjetas al inicio
 loadCards();
+
+
+
+
+
+
+
